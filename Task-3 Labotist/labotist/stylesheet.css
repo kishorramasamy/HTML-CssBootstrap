@@ -1,0 +1,54 @@
+body { height: 100%;
+}
+.padd{
+    padding-left: 0px;
+    margin-left: 20px;
+    color: #2d9fd6;
+    font-size: 16px;
+  }
+  .padd1{
+    padding-left: 0px;
+    color: #2d9fd6;
+    font-size: 16px;
+  }
+  .dropcolrr{
+    color:#2d9fd6;
+  }
+  .opactiyl{
+    --bs-border-opacity: .20;
+  }
+
+  .textcolorincard{
+    color: #82818f;
+  }
+  @media only screen and (max-width: 321px){
+    .offcanvas{
+      max-width:82% !important;
+    }
+  }
+  .dropdown-menu[data-bs-popper]{
+    left:-20px !important;
+  }
+  
+  
+ 
+
+  @media only screen and (max-width: 1025px){
+    .btnn{
+      .btn{
+        text-align: left;
+        white-space: wrap;
+      }
+    /* .sideer{
+      max-width:60% !important;
+      white-space: wrap !important;
+    } */
+  }
+}
+  /* @media only screen and (min-width: 765px) {
+  
+  .offr{
+    width:100% !important;
+  }
+ 
+  } */

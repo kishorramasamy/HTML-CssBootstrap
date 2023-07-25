@@ -1,0 +1,19 @@
+.backgroundnavbar {
+    background-image: url("./imgpsh_fullsize_anim.jpeg");
+    background-size: cover;
+height:100%;
+width:100%;
+    
+  }
+
+  .backgroundimage{
+    
+  }
+  /* .navheader{
+    font-size: small;
+
+  }
+  .buttonnav{
+    color:white !important;
+    font-size: small;
+  } */
